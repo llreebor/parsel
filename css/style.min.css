@@ -1182,6 +1182,7 @@ footer {
     right: 0;
     bottom: 0;
     text-decoration: none;
+    z-index: 1;
 }
 
 .banner__text {
